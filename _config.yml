@@ -1,0 +1,17 @@
+# Site settings
+title: Reed Morano, ASC
+email: reedmorano@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  In early 2013, reed was invited to become the youngest member of the american
+  society of cinematographers; she is one of only 12 women out of approximately
+  340 active members in the organization. she was honored with the 2011 kodak
+  vision award for cinematography at the women in film crystal + lucy awards,
+  and in past years has been named one of variety's "10 cinematographers to watch",
+  one of ioncinema.com's "american new wave 25", and one of five innovative
+  cinematographers in icg magazine's "generation next" spotlight.
+baseurl: "" # the subpath of your site, e.g. /blog/
+imageurl: "/images/" # the subpath of your site, e.g. /blog/
+url: "http://reedmorano.com/" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
