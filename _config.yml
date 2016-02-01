@@ -10,7 +10,6 @@ description: > # this means to ignore newlines until "baseurl:"
   one of ioncinema.com's "american new wave 25", and one of five innovative
   cinematographers in icg magazine's "generation next" spotlight.
 baseurl: # the subpath of your site, e.g. /blog/
-imageurl: "/images/" # the subpath of your site, e.g. /blog/
 url: "http://reedmorano.com/" # the base hostname & protocol for your site
 
 # Build settings
