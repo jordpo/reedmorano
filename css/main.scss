@@ -3,8 +3,6 @@
 ---
 @charset "utf-8";
 
-
-
 // Our variables
 $base-font-family: Verdana, Arial, Helvetica, sans-serif;
 $base-font-size:   .76em;
@@ -39,12 +37,11 @@ $on-laptop:        800px;
     }
 }
 
-
-
-// Import partials from `sass_dir` (defaults to `_sass`)
+// HTML5 boilerplate
 @import
-        "base",
-        "cover",
-        "layout",
-        "syntax-highlighting"
+  "boilerplate",
+  "normalize"
 ;
+
+// components
+@import "cover";
